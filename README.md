@@ -27,10 +27,10 @@ This project involves forecasting YouTube views for the next 7 days using three 
 Overall, the Forecast Sheet method proved to be the most accurate and insightful, making it ideal for detailed forecasting tasks. The project demonstrated the effectiveness of each method and provided a clearer understanding of how different forecasting tools can be applied to real-world data.
 
 ## 📥 Download Project File:
-[Download Project File](https://github.com/YourGitHubUsername/YouTube-Views-Forecasting-Project/archive/refs/heads/main.zip)
+[Download Project File](https://github.com/Bhushan148/Forecasting-in-Excel/blob/main/YT%20Views%20Forecasting%20Excel.xlsx)
 
 ## 🖼️ Sample Picture About Project:
-![Sample Picture](https://github.com/YourGitHubUsername/YouTube-Views-Forecasting-Project/blob/main/Images/sample-picture.png)
+![Sample Picture](https://github.com/Bhushan148/Forecasting-in-Excel/blob/main/Other%20Resources/Page%201.png)
 
 
 ---
